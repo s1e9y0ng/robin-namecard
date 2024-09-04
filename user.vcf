@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Lee;Han Yong;;;
-FN: Lee Han Yong 
+N:Robin;Li;;
+FN: Robin Li 
 ORG:Leoch Battery;
-TITLE:Head of Solutions
-EMAIL;type=INTERNET;type=WORK;type=pref:hanyong.lee@leoch.com
-TEL;type=WORK;type=VOICE:+65 97861054
+TITLE:Chief Strategy Officer
+EMAIL;type=INTERNET;type=WORK;type=pref:robin.li@leoch.com
+TEL;type=WORK;type=VOICE:+65 97698836
 item1.ADR;type=WORK;type=pref:;;152 Beach Road\nGateway East\, 22-01/04;;;189721;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:leoch.com
