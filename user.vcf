@@ -7,7 +7,7 @@ ORG:Leoch Battery;
 TITLE:Head of Solutions
 EMAIL;type=INTERNET;type=WORK;type=pref:hanyong.lee@leoch.com
 TEL;type=WORK;type=VOICE:+65 97861054
-item1.ADR;type=WORK;type=pref:;;152 Beach Road\nGateway Eash\, 22-01/04;;;189721;Singapore
+item1.ADR;type=WORK;type=pref:;;152 Beach Road\nGateway East\, 22-01/04;;;189721;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:leoch.com
 item2.X-ABLabel:_$!<HomePage>!$_
