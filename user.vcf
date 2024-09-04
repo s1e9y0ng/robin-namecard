@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lee;Han Yong;;;
 FN: Lee Han Yong 
-ORG:Envision Digital;
-TITLE:Director, Presales\nSmart City and Building
-EMAIL;type=INTERNET;type=WORK;type=pref:hanyong.lee@envision-digital.com
+ORG:Leoch Battery;
+TITLE:Head of Solutions
+EMAIL;type=INTERNET;type=WORK;type=pref:hanyong.lee@leoch.com
 TEL;type=WORK;type=VOICE:+65 97861054
-item1.ADR;type=WORK;type=pref:;;1 Harbourfront Avenue\nKeppel Bay Tower\, 17-01;;;098632;Singapore
+item1.ADR;type=WORK;type=pref:;;152 Beach Road\nGateway Eash\, 22-01/04;;;189721;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:envision-digital.com
+item2.URL;type=pref:leoch.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
